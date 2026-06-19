@@ -1,0 +1,13 @@
+{
+  "name": "playwright-automation-suite",
+  "version": "1.0.0",
+  "description": "PlayWright Automation Suite for automationexercise.com",
+  "private": true,
+  "scripts": {
+    "test": "playwright test",
+    "cucumber": "npx cucumber-js src/features/*.feature --format progress-bar summary"
+  },
+  "dependencies": {
+    "@bg-playwright/shared": "*"
+  }
+}
