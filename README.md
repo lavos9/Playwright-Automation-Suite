@@ -153,7 +153,7 @@ baseURL: 'https://automationexercise.com'
 ## Status
 
 ✅ Test Cases 1-8: **PASSING**  
-🔄 Test Cases 9-26: **To be implemented**
+🔄 Other Test Cases : **To be implemented**
 
 ## Next Steps
 
